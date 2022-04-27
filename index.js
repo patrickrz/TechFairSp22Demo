@@ -1,3 +1,5 @@
+/* Following Colt Steele's Udemy Course on Web Development*/
+
 const express = require('express');
 const res = require('express/lib/response');
 const app = express();
